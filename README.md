@@ -1,4 +1,4 @@
-React native kursu yemek projesi
+React native kursu kapsamında yaptığım proje
 
 ![image](https://user-images.githubusercontent.com/43764640/136706387-185ed885-6cfe-4949-b7ab-bf5e0ccc2e48.png)
 ![image](https://user-images.githubusercontent.com/43764640/136706393-6457959a-769f-44f5-be64-87c7f329be17.png)
